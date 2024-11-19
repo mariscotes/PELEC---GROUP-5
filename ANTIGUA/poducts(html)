@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X=UA-Comptible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!--font awesome cdn link-->
+  <link rel="stylesheet" href=https://cdnjs.cloudflare.com/ajax/libs/fork-awesome/1.2.0/css/fork-awesome.min.css>
+
+  <!-- custom css file link-->
+  <link rel="stylesheet" href="styles.css">
+
+  <!-- custom js file link-->
+   <script src="js/script.js" defer></script>
+
+</head>
+<body>
+
+<div class="container">
+
+    <h3 class="title"> organic products</h3>
+
+    <div class="products-container">
+
+    <div class="product" data-name="SIN">
+        <img src="https://www.maggi.ph/sites/default/files/styles/image_744_x_419/public/srh_recipes/442ce059c4c490e1ab61cdaef9c98511.jpg?h=28121b77&itok=Orr40I8J" class="SIN">
+        <h3>Sinigang</h3>
+        <div class="price">$7.00</div>
+        </div>
+
+    <div class="product" data-name="CAL">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu0O7jxDxeZuZBdNrUxBGbAwF43zT74Nlzkw&s" class="CAL">
+        <h3>Caldereta</h3>
+        <div class="price">$8.00</div>
+        </div>
+
+    <div class="product" data-name="BUL">
+        <img src="https://i.ytimg.com/vi/25IpyYYIA7Y/maxresdefault.jpg" class="BUL">
+        <h3>Bulalo</h3>
+        <div class="price">$7.00</div>
+        </div>
+
+    <div class="product" data-name="PANSIT">
+        <img src="https://t4.ftcdn.net/jpg/08/30/94/71/360_F_830947135_lOJYqjpmb7XmteaJr2mZUmQpCgIfhqgl.jpg" class="PANSIT">
+        <h3>Pansit</h3>
+        <div class="price">$3.00</div>
+        </div>
+
+    </div>
+</div>
+
+</body>
+</html>
